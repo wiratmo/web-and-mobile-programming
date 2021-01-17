@@ -84,12 +84,12 @@
 
 7. Expo yang terinstall dibuka dan qr code pada langkah ke 6 discan dengan aplikasi tersebut sehingga akan muncul Gambar 6 dan Gambar 7.
 
-   <img src="C:\Users\Safire\Playground\web-and-mobile-programming\docs\img\proses-java-bundle.jpg" style="zoom:50%;" />
+   <img src="img\proses-java-bundle.jpg" style="zoom:50%;" />
 
    Gambar 6. Proses building javascript bundle.
 
    
 
-   <img src="C:\Users\Safire\Playground\web-and-mobile-programming\docs\img\proses-java-bundle.jpg" style="zoom:50%;" />
+   <img src="img\proses-java-bundle.jpg" style="zoom:50%;" />
 
    Gambar 7. Expo berhasil di install
